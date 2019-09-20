@@ -32,6 +32,6 @@ the project. This can either be the company homepage or a project-specific landi
 or to CDF, not the origin company.
 1. CDF requests that graduated and incubating projects include the sentence “We are a Continuous Delivery Foundation project.” and the CDF logo near the bottom of their project homepage.
 Sandbox-level projects should include the sentence “We are a Continuous Delivery Foundation
-sandbox project.” and the CDF logo. We also appreciate a link to CDF events as theyapproach.
+sandbox project.” and the CDF logo. We also appreciate a link to CDF events as they approach.
 
 Questions? Please email info@cd.foundation
