@@ -12,7 +12,7 @@ This repo contains several documents and links related to the operation of the [
 ## Project Guidance
 
 * [Copyright](copyright.md) notice recommendations
-* [Website guidelines](website-guidelines.md) for mentioning companies while maintaining neutrality
+* [Project Website guidelines](project-website-guidelines.md) for mentioning companies while maintaining neutrality
 * @TODO - [Whitelist policy](#) for which licenses are acceptable in upstream dependencies without requiring an explicit vote of the governing board
 
 ## Community recommendations
