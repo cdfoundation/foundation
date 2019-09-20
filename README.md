@@ -7,7 +7,7 @@ This repo contains several documents and links related to the operation of the [
 * The [charter](https://github.com/cdfoundation/charter) under which CDF operates
 * Foundation operations support and [service desk](https://github.com/cdfoundation/foundation/issues) 
 * The [membership](https://github.com/cdfoundation/charter/blob/master/CD%20Foundation%20Participation%20Agreement%20and%20Funding%20Charter%202-6-2019.pdf) agreement
-* The TOC [Code of Conduct](https://github.com/cdfoundation/toc/blob/master/CODE_OF_CONDUCT.md) which has been translated into multiple languages
+* The TOC [Code of Conduct](https://github.com/cdfoundation/toc/blob/master/CODE_OF_CONDUCT.md) 
 
 ## Project Guidance
 
