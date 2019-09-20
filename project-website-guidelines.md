@@ -14,7 +14,7 @@ services.
 
 The guidelines:
 
-1. It is strongly encouraged for CNCF projects to host the source of their websites in an open
+1. It is strongly encouraged for CDF projects to host the source of their websites in an open
 source repository (and under the same organization) so that requests to change can be done via
 pull requests and the discussions are archived in a transparent manner.
 1. It is OK to say that, e.g., “Tekton was originally created by Google” or “Jenkins
