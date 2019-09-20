@@ -30,7 +30,7 @@ this vetting to CDF staff if it becomes a burden.
 the project. This can either be the company homepage or a project-specific landing page.
 1. If there is a copyright notice at the bottom of the page, copyright should be to the project authors
 or to CDF, not the origin company.
-1. CDF requests that graduated and incubating projects include the sentence “We are a Continuous Delivery Foundation project.” and the CNCF logo near the bottom of their project homepage.
+1. CDF requests that graduated and incubating projects include the sentence “We are a Continuous Delivery Foundation project.” and the CDF logo near the bottom of their project homepage.
 Sandbox-level projects should include the sentence “We are a Continuous Delivery Foundation
 sandbox project.” and the CDF logo. We also appreciate a link to CDF events as theyapproach.
 
