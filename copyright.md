@@ -1,3 +1,5 @@
+# DRAFT v1.0
+
 ## Ownership of Copyrights in CDF Project Contributions
 
 When source code, documentation and other content is contributed to a CDF
