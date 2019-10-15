@@ -49,6 +49,16 @@ v) such other matters related to finance and the financial operation of the Dire
 
 c) The Treasurer shall be chairperson (or co-chairperson) of the Budget Committee.
 
+
+[Budget Section 13](https://github.com/cdfoundation/charter/blob/master/CHARTER.md#13-budget)
+
+a) The Governing Board will approve an annual budget and never commit to spend in excess of funds raised. The budget and the purposes to which it is applied must be consistent with both (a) the non-profit and tax-exempt mission of The Linux Foundation and (b) the aggregate goals of the Technical Projects.
+
+b) The Linux Foundation will provide the Governing Board with regular reports of spend levels against the budget. Under no circumstances will The Linux Foundation have any expectation or obligation to undertake an action on behalf of the Directed Fund or otherwise related to the Directed Fund that is not covered in full by funds raised by the Directed Fund.
+
+c) In the event an unbudgeted or otherwise unfunded obligation arises related to the Directed Fund, The Linux Foundation will coordinate with the Governing Board to address gap funding requirements.
+
+
 ## Committee Members
 
 {list of members}
