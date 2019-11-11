@@ -1,4 +1,4 @@
-# Strategy Subcommittee
+# Strategy Committee
 
 ## Membership
 
