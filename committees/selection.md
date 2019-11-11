@@ -17,7 +17,7 @@ Membership to the Committee will have two membership types
 
 ### Governance
 
-The committee will be lead by a chairperson or co-chairperson
+Optionally, the committee will be lead by a chairperson or co-chairperson
 
 ## Governing Board Oversight
 
@@ -32,5 +32,5 @@ The Selection Committee will consist of members of the Governing Board that wish
 * Kim Lewandowski	klewandowski@google.com
 * Raj Panchapakesan	rajp@jfrog.com
 * John Mark Walker	johnmark.walker@capitalone.com
-* TracyRagan	tracy@deployhub.com
-* Tracy Miranda	tmiranda@cloudbees.com
+* Tracy Ragan	tracy@deployhub.com
+* Tracy Miranda	tmiranda@cloudbees.com 
