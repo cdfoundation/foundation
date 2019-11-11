@@ -61,8 +61,8 @@ c) In the event an unbudgeted or otherwise unfunded obligation arises related to
 
 ## Committee Members
 
-* Shawn Clymer	sclymer@us.ibm.com	
-* David Lai	David.lai@futurewei.com	
+* Shawn Clymer	sclymer@us.ibm.com	**[Co-chair]**
+* David Lai	David.lai@futurewei.com	 **[Co-chair]**
 * Raj Panchapakesan	rajp@jfrog.com	
 * TracyRagan	tracy@deployhub.com	
 * Tracy Miranda	tmiranda@cloudbees.com
