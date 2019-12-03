@@ -29,5 +29,5 @@ initiatives while addressing the risks associated with such plans.
 
 ## Committee Members
 
-{list of members}
+Default to **all** governing board members opted-in
 
