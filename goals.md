@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1zj7rq2qu5modhkeeaI_A6uxMNgS-e0izEn-3UoRr
 
 Based on this, we would like to bring the goals to the Governing Board attention for review and we can work towards prioritizing the goals for the CDF staff to begin shaping the program and executing. 
 
-Once ratified, the goals will be routinely revisited and updated for each year. A blog post detailing the activity kick-off is located on the CDF blog: https://cd.foundation/blog/2019/10/17/cdfs-governing-board-unveils-9-strategic-goals/
+The goals will be routinely revisited and updated for each year. A blog post detailing the activity kick-off is located on the CDF blog: https://cd.foundation/blog/2019/10/17/cdfs-governing-board-unveils-9-strategic-goals/
 
 
 ## 2019 - 2020
