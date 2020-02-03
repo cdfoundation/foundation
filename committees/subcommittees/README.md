@@ -12,4 +12,4 @@ Chair Rosalind Benoit Armory (rosalind.benoit@armory.io)
 
 ### Messaging Outreach Sub-Committee
 
-Chair Tracy Ragan, DeployHub (tracy@deployhub)
+Chair Tracy Ragan, DeployHub (tracy@deployhub.com)
