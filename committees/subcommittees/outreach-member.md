@@ -9,8 +9,8 @@
 ## Types
 Membership to the Committee will have two membership types
 
-### Voting (Binding votes, Premiere members and membership classes included in voting structure of the Governing Board as membership benefits)
-### Observer (Non-binding votes, open to all member companies, and supporting marketing staff)
+1. Voting (Binding votes, Premiere members and membership classes included in voting structure of the Governing Board as membership benefits)
+1. Observer (Non-binding votes, open to all member companies, and supporting marketing staff)
 
 ## Governance
 The committee will be lead by a chairperson or co-chairperson
