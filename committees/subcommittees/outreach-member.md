@@ -1,7 +1,8 @@
 # Member Outreach Subcommittee
 
 ## Mission and Scope
-@TODO
+
+This Sub-Committee will focus on working with the CDF Members to grow the member community, discuss member benefits, organize member events and foster community discussion. When you join this team, you will help to build a community that will encourage co-marketing events and member collaboration with the goal of building a broad member community that spans a broad range of companies with solutions that fit into the CDF Landscape.
 
 ## Membership
 @TODO
@@ -22,5 +23,5 @@ Set forth in the CDF Charter Section 3.d.i
 @TODO
 
 ## Committee Members
-{list of members}
+Chair - Anita Rass Wan IBM (anitar@ca.ibm.com) 
 
