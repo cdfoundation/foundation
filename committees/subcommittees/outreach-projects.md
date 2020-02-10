@@ -1,7 +1,8 @@
 # Project Outreach Subcommittee
 
 ## Mission and Scope
-@TODO
+ 
+This Sub-Committee will have a laser focus on building outreach for the CDF Project to end user and end user companies. This group will work to increase awareness about the CDF Projects, work on Project events, encourage the growth of CI/CD CDF Meetups and build an ecosystem of technical expertise to grow Project adoption.
 
 ## Membership
 @TODO
@@ -22,5 +23,5 @@ Set forth in the CDF Charter Section 3.d.i
 @TODO
 
 ## Committee Members
-{list of members}
+Chair - Rosalind Benoit Armory (rosalind.benoit@armory.io)
 
