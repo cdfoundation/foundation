@@ -18,3 +18,8 @@ This Sub-Committee will have a laser focus on building outreach for the CDF Proj
 
 Chair Tracy Ragan, DeployHub (tracy@deployhub.com)
 This Sub-Committee will focus on high-level CDF messaging that clearly communicates the purpose and goals of the CD Foundation, from both a membership and project adoption perspective.  This team will work on CDF branding, website content, and event messaging. As a member of this team your marketing genius will be used to build a long-term sustainable message about who the CD Foundation is and why it is an important community for todays pipeline collaboration. 
+
+### Events Outreach Sub-Committee
+
+Chair Tracy Miranda, Cloudbees (tmiranda@cloudbees.com)
+This Sub-Committee will focus on high-level CDF events strategy that clearly defines and communicates the event strategy of the CD Foundation, from both a membership and project promotion perspective.  This team will work on CDF branding, website content, and event messaging. As a member of this team your events marketing experience will be used to build a long-term sustainable events strategy. 
