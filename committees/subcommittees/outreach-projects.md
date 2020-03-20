@@ -2,10 +2,14 @@
 
 ## Mission and Scope
  
-This Sub-Committee will have a laser focus on building outreach for the CDF Project to end user and end user companies. This group will work to increase awareness about the CDF Projects, work on Project events, encourage the growth of CI/CD CDF Meetups and build an ecosystem of technical expertise to grow Project adoption.
+This Sub-Committee will have a laser focus on building outreach for the CDF Project to end user and end user companies. Goal: increase awareness about the CDF Projects, work on Project events, encourage the growth of CI/CD CDF Meetups, and build an ecosystem of technical expertise to grow Project adoption.
 
 ## Membership
-@TODO
+Tracy Miranda, Cloudbees
+Anita Rass Wan, IBM
+Jacque Salinas, CDF
+Rosalind Benoit, Armory
+Thomas McGonagle, Armory
 
 ## Types
 Membership to the Committee will have two membership types
@@ -14,14 +18,15 @@ Membership to the Committee will have two membership types
 ### Observer (Non-binding votes, open to all member companies, and supporting marketing staff)
 
 ## Governance
-The committee will be lead by a chairperson or co-chairperson
+The committee is led by the chairperson or co-chairperson
 
 ## Governing Board Oversight
 Set forth in the CDF Charter Section 3.d.i
 
 ## Committee Purpose
-@TODO
+Vision: Own the opinionated story of emerging modern continuous integration and delivery practices across the software community. 
 
+Mission: Educate and grow technical usership on how to solve by leveraging open source and CDF projects.
 ## Committee Members
 Chair - Rosalind Benoit Armory (rosalind.benoit@armory.io)
 
