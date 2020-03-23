@@ -65,7 +65,7 @@ To choose a webinar date, go to the webinar calendar to view the available dates
 * Webinar presentation slides
 * If you would like a live walkthrough, it would be scheduled for this week 
 
-All deliverables should be sent to [Webinar](mailto:webinars@CDF.io). 
+All deliverables should be sent to [Webinar](mailto:webinars@cd.foundation). 
 
 ## Webinar Promotion & Prep Details ##
 
@@ -75,7 +75,7 @@ All deliverables should be sent to [Webinar](mailto:webinars@CDF.io).
 * Our most successful webinars are when the presenting company helps promote in addition to CDF promotion. We are often able to double our attendance in these cases. 
 
 ## Webinar: Presentations ##
-* 1 week prior to your webinar, send your webinar presentation to [Webinar](mailto:webinars@CDF.io). All presentations must be reviewed prior to the webinar.
+* 1 week prior to your webinar, send your webinar presentation to [Webinar](mailto:webinars@cd.foundation). All presentations must be reviewed prior to the webinar.
 * Logos:
   * Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 CI/CD projects, products, and companies are available in the CDF landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). 
   * Please see the CDF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S as well as the proper capitalization of projects like gRPC and containerd.
