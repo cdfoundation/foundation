@@ -13,6 +13,8 @@ This repo contains several documents and links related to the operation of the [
 ## Project Guidance
 
 * [Copyright](copyright.md) notice recommendations
+* [Blog Guidelines](blog-guidelines.md)
+* [Webinar Guidelines](webinar-guidelines.md)
 * [Project Website guidelines](project-website-guidelines.md) for mentioning companies while maintaining neutrality
 * [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-policy/)
 * @TODO - [Whitelist policy](#) for which licenses are acceptable in upstream dependencies without requiring an explicit vote of the governing board
