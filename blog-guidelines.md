@@ -37,6 +37,6 @@ Your blog will be shared on CDF’s Twitter channel and Linkedin account. Please
 
 ## How to submit for consideration ##
 
-Please submit a brief summary and the topic of the post to blog@cd.foundation for consideration. Or you can supply the blog for review. We will respond with a proposed date of publication or if it’s not suitable for the CDF blog, we will provide feedback and direction.
+Please submit a brief summary and the topic of the post to our [CDF Blog form](https://docs.google.com/forms/d/e/1FAIpQLScDVW8tWj1eXkVeGG697CsHVhTyt5cFhFJJcGG2R8yzplVVLA/viewform). Or you can supply the full blog for review. We will respond with a proposed date of publication or if it’s not suitable for the CDF blog, we will provide feedback and direction.
 
 If you are submitting an article or presentation that already exists, please send it in its entirety with a note on the expressed permission from the owner of the content. 
