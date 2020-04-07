@@ -33,7 +33,7 @@ Your post must be your content, but can be published elsewhere with a right to r
 
 ## Promotion ##
 
-Your blog will be shared on CDF’s Twitter channel. Please feel free to retweet or share. 
+Your blog will be shared on CDF’s Twitter channel and Linkedin account. Please feel free to retweet or share. 
 
 ## How to submit for consideration ##
 
