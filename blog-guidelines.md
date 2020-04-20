@@ -2,7 +2,7 @@
 
 ## CDF Blog Overview ##
 
-The Continuous Delivery Foundation (CDF) blog serves as a channel for CDF members, project maintainers of graduated and incubating projects, and ambassadors to share content with the community. 
+The Continuous Delivery Foundation (CDF) blog serves as a channel for CDF members, project maintainers of graduated and incubating projects, and ambassadors to share content with the community. Please note: You need to be a CDF member, any tier, to publish through the CDF blog.
 
 The content on our blog consists of:
 * Articles about graduated or incubating CDF projects
@@ -38,5 +38,7 @@ Your blog will be shared on CDF’s Twitter channel and Linkedin account. Please
 ## How to submit for consideration ##
 
 Please submit a brief summary and the topic of the post to our [CDF Blog Submission Form](https://cd.foundation/cdf-blog-submission-form/). Or you can supply the full blog for review. We will respond with a proposed date of publication or if it’s not suitable for the CDF blog, we will provide feedback and direction.
+
+You need to be a CDF member, any tier, to publish through the CDF blog.
 
 If you are submitting an article or presentation that already exists, please send it in its entirety with a note on the expressed permission from the owner of the content. 
