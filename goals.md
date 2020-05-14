@@ -10,15 +10,16 @@ The goals will be routinely revisited and updated for each year. A blog post det
 
 
 ## 2020 - 2021
-Drive continuous delivery adoption
-Cultivate growth & adoption of projects
-Foster Tool Interoperability
-Champion diversity & inclusion in our communities
-Foster community relations
-Grow the membership base
-Create value for all members
-Promote security as a first class citizen
-Expand into emerging technology areas
+
+1. Drive continuous delivery adoption
+1. Cultivate growth & adoption of projects
+1. Foster Tool Interoperability
+1. Champion diversity & inclusion in our communities
+1. Foster community relations
+1. Grow the membership base
+1. Create value for all members
+1. Promote security as a first class citizen
+1. Expand into emerging technology areas
 
 ## 2019 - 2020
 
