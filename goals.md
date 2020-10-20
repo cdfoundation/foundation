@@ -9,6 +9,18 @@ Based on this, we would like to bring the goals to the Governing Board attention
 The goals will be routinely revisited and updated for each year. A blog post detailing the activity kick-off is located on the CDF blog: https://cd.foundation/blog/2019/10/17/cdfs-governing-board-unveils-9-strategic-goals/
 
 
+## 2020 - 2021
+
+1. Drive continuous delivery adoption
+1. Cultivate growth & adoption of projects
+1. Foster Tool Interoperability
+1. Champion diversity & inclusion in our communities
+1. Foster community relations
+1. Grow the membership base
+1. Create value for all members
+1. Promote security as a first class citizen
+1. Expand into emerging technology areas
+
 ## 2019 - 2020
 
 1. Drive continuous delivery adoption
