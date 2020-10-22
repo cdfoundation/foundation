@@ -3,17 +3,13 @@
 ## Quick Links
 
 - [Meeting Information](#meetings)
-- [Members](#members)
 - [New Board Member Onboarding](#onboarding)
-- [Meetings](#meetings)
 
 ## Overview
 
 The CDF Governing Board (GB) is responsible for strategic direction, business oversight and business decisions for the CDF.
 
 Details of the Governing Board are set forth in the [CDF Charter Section 3](https://github.com/cdfoundation/charter/blob/master/CHARTER.md#3-governing-board)
-
-## Members
 
 The current Governing Board consists of the representatives listed on this page: [Governing Board](https://cd.foundation/about/governing-board/)
 
