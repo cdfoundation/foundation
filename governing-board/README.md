@@ -22,9 +22,9 @@ The current Governing Board consists of the representatives listed on this page:
 New Governing Board members checklist
 
 - [ ] Added to board meeting calendar invite
-- [ ] Added to CDF Board calendar
-- [ ] Added to CDF Board Google Drive
-- [ ] Added to CDF groups.io cdf-gb mailing list
+- [ ] Added to [CDF Board calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [ ] Added to [CDF Board Google Drive](https://drive.google.com/drive/folders/14Y-BTfa6STpc6ncQt61IdLyPYEc--sa2?usp=sharing)
+- [ ] Added to CDF [cdf-gb](https://lists.cd.foundation/g/cdf-gb) mailing list
 - [ ] Added to [Governing Board](https://cd.foundation/about/governing-board/)
 
 
