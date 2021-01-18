@@ -13,6 +13,11 @@ Details of the Governing Board are set forth in the [CDF Charter Section 3](http
 
 The current Governing Board consists of the representatives listed on this page: [Governing Board](https://cd.foundation/about/governing-board/)
 
+### Governing Board Chair
+
+Stephen Chin of JFrog is the current elected governing board chair
+   * Term: 30 November 2019 - 28 February 2022
+
 ## Onboarding
 
 New Governing Board members checklist
