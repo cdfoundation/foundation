@@ -18,6 +18,16 @@ The current Governing Board consists of the representatives listed on this page:
 Stephen Chin of JFrog is the current elected governing board chair
    * Term: 30 November 2019 - 28 February 2022
 
+## Communication Channels
+
+The GB communication happens via private mailing list: https://lists.cd.foundation/g/cdf-gb
+
+The meeting minutes are also available in the mailing list: https://lists.cd.foundation/g/cdf-gb
+
+The private board calendar is here: [GB Calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
+
 ## Onboarding
 
 New Governing Board members checklist
