@@ -32,11 +32,12 @@ The community also uses [Slack for additional collaboration opportunities](https
 
 New Governing Board members checklist
 
-- [ ] Added to board meeting calendar invite
-- [ ] Added to [CDF Board calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [ ] Added to [CDF Board Google Drive](https://drive.google.com/drive/folders/14Y-BTfa6STpc6ncQt61IdLyPYEc--sa2?usp=sharing)
-- [ ] Added to CDF [cdf-gb](https://lists.cd.foundation/g/cdf-gb) mailing list
-- [ ] Added to [Governing Board](https://cd.foundation/about/governing-board/)
+- [ ] Add to board meeting calendar invite
+- [ ] Add to [CDF Board calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [ ] Add to [CDF Board Google Drive](https://drive.google.com/drive/folders/14Y-BTfa6STpc6ncQt61IdLyPYEc--sa2?usp=sharing)
+- [ ] Add to CDF [cdf-gb](https://lists.cd.foundation/g/cdf-gb) mailing list
+- [ ] Add to [Governing Board] page (https://cd.foundation/about/governing-board/)
+- [ ] Optionally add to [Slack channel](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 
 ## Meetings
