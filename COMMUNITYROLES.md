@@ -18,14 +18,7 @@ Premier Members may appoint one representative to the Governing Board. The found
 
 2. Communication and gravitas: A great board member combines openness to others' points of view with an ability to be highly persuasive, thereby driving consensus. They are influential both within their own organizations and in the broader industry.
 
-3. Involvement: A helpful board member not only attends all/most board meetings, but is also responsive to the LF leadership, actively reviews materials presented, and participates in sub-committees. Specific expertise in one of Marketing, Finance, Open Source IP, or governance is highly valued as it allows the board member to lead a sub-committee. Board members will occasionally be tasked in taking the lead in a project, or to represent the project externally.
+3. Involvement: A helpful board member not only attends all/most board meetings, but is also responsive to the CDF leadership, actively reviews materials presented, and participates in sub-committees. Specific expertise in one of Marketing, Finance, Open Source IP, or governance is highly valued as it allows the board member to lead a sub-committee. Board members will occasionally be tasked in taking the lead in a project, or to represent the project externally.
 
-### Technical Oversight Committee (TOC) Chair
+### General Member Representative(s)
 #### Summary Overview
-
-#### Responsibilities
-
-### Outreach Committee Chair
-#### Summary Overview
-
-#### Responsibilities
