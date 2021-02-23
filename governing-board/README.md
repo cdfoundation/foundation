@@ -22,7 +22,9 @@ Stephen Chin of JFrog is the current elected governing board chair
 
 The GB communication happens via private mailing list: https://lists.cd.foundation/g/cdf-gb
 
-The meeting minutes are also available in the mailing list: https://lists.cd.foundation/g/cdf-gb
+Summary meeting minutes are made available here: https://github.com/cdfoundation/foundation/tree/master/governing-board/minutes
+
+The full and summary meeting minutes are also available in the mailing list: https://lists.cd.foundation/g/cdf-gb
 
 The private board calendar is here: [GB Calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
