@@ -44,7 +44,7 @@ New Governing Board members checklist
 
 ## Meetings
 
-Governing board meetings are held once a quarter. 
+Governing board meetings are monthly.
 
  * [CDF Board Calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
