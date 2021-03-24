@@ -39,7 +39,7 @@ New Governing Board members checklist
 - [ ] Add to [CDF Board Google Drive](https://drive.google.com/drive/folders/14Y-BTfa6STpc6ncQt61IdLyPYEc--sa2?usp=sharing)
 - [ ] Add to CDF [cdf-gb](https://lists.cd.foundation/g/cdf-gb) mailing list
 - [ ] Add to [Governing Board] page (https://cd.foundation/about/governing-board/)
-- [ ] Optionally add to [Slack channel](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
+- [ ] Optionally add to [Slack channel](https://https://cdeliveryfdn.slack.com/)
 
 
 ## Meetings
