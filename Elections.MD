@@ -16,7 +16,7 @@ Example:
 ### Nominating Body
 
 #### Governing Board
-* Based on membership tier (Silver, Gold, etc) or involvement in Project community (Developer/Maintainer)
+* Based on membership tier (Premier, End User, etc.) or involvement in Project community (Developer/Maintainer)
 * For membership-based seats, the primary voting contact for each member may nominate and vote
 * For Developer or Maintainer seats, Project maintainers can nominate or vote, as dictated by a Project’s charter or election policies
 * Number of seats per class is defined in the Project charter
