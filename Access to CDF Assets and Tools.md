@@ -25,7 +25,7 @@ Prior to requesting access please register for a [Last Pass account](#heading=h.
 
 
 
-1. File a ticket at [https://members.cd.foundation/ ](https://members.cd.foundation/)with the Zoom account you need access to in the subject line. Ex: Spinnaker Zoom Access.
+1. File a ticket at [https://members.cd.foundation/ ](https://members.cd.foundation)with the Zoom account you need access to in the subject line. Ex: Spinnaker Zoom Access.
     1. Make sure you include the email address you associated with your last pass account in the body of the email.
     2. Please allow 48hrs to process your request, you will receive a confirmation email once you have been added.
 2. Sign into your last pass
