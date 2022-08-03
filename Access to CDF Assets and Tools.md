@@ -59,7 +59,7 @@ To request a link to CDF’s LastPass Vault please file a ticket at  [https://me
 
 ### Edit Access to CDF Community Calendar
 
-For access to edit a community calendar please file a ticket at: [https://members.cd.foundation/ ](http://operations@cd.foundation) Please provide your project or group (e.g., SIG) name, reason for access, and the email address associated with your LFid
+For access to edit a community calendar please file a ticket at: [https://members.cd.foundation/ ](https://members.cd.foundation/) Please provide your project or group (e.g., SIG) name, reason for access, and the email address associated with your LFid
 
 
 # Slack 
