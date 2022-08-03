@@ -12,7 +12,7 @@ It is recommended that GitHub be used as the primary file sharing service, in th
 
 # Zoom
 
-Zoom accounts are paid for and administered by CDF. Each project should have its own designated Zoom account. To request a new Zoom account please contact [https://members.cd.foundation/ ](operations@cd.foundation)
+Zoom accounts are paid for and administered by CDF. Each project should have its own designated Zoom account. To request a new Zoom account please contact [https://members.cd.foundation/ ](https://members.cd.foundation/)
 
 
 ### Request Access to an Existing Project Zoom Account
@@ -25,7 +25,7 @@ Prior to requesting access please register for a [Last Pass account](#heading=h.
 
 
 
-1. File a ticket at [https://members.cd.foundation/ ](http://operations@cd.foundation)with the Zoom account you need access to in the subject line. Ex: Spinnaker Zoom Access.
+1. File a ticket at [https://members.cd.foundation/ ](https://members.cd.foundation/)with the Zoom account you need access to in the subject line. Ex: Spinnaker Zoom Access.
     1. Make sure you include the email address you associated with your last pass account in the body of the email.
     2. Please allow 48hrs to process your request, you will receive a confirmation email once you have been added.
 2. Sign into your last pass
@@ -41,7 +41,7 @@ You may have to enter a code (MFA) you've been added to the mailing alias associ
 
 ### Request Link to CDF LastPass Vault
 
-To request a link to CDF’s LastPass Vault please file a ticket at  [https://members.cd.foundation/ ](http://operations@cd.foundation). Please include the following:
+To request a link to CDF’s LastPass Vault please file a ticket at  [https://members.cd.foundation/ ](https://members.cd.foundation/). Please include the following:
 
 1. Your Project name
 2. The email address you wish to associate with your account
@@ -74,7 +74,7 @@ CDF Youtube Channel: [https://www.youtube.com/c/ContinuousDeliveryFoundation](ht
 
 ### Requesting Manager Access
 
-For access to CDF Youtube Channel with Manager role to upload recordings, please file a ticket at: [https://members.cd.foundation/ ](http://operations@cd.foundation) Please provide your project or group (e.g., SIG) name, reason for access, and the email address you would like access to be granted.
+For access to CDF Youtube Channel with Manager role to upload recordings, please file a ticket at: [https://members.cd.foundation/ ](https://members.cd.foundation/) Please provide your project or group (e.g., SIG) name, reason for access, and the email address you would like access to be granted.
 
 
 # GitHub
