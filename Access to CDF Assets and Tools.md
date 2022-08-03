@@ -6,7 +6,7 @@ It is recommended that GitHub be used as the primary file sharing service, in th
 
 
 
-* CDF will need to have administrative access; please create an account using your CDF project email alias [Project Name]@cd.foundation and provide CDF with full admin access. This would enable CDF to administer access as needed._ _In case if you do not know or are not sure your CDF project email alias, please contact [https://members.cd.foundation/](operations@cd.foundation)
+* CDF will need to have administrative access; please create an account using your CDF project email alias [Project Name]@cd.foundation and provide CDF with full admin access. This would enable CDF to administer access as needed._ _In case if you do not know or are not sure your CDF project email alias, please contact [https://members.cd.foundation/ ](https://members.cd.foundation/)
 * Billing will need to be discussed with the finance committee. Please reach out to [finance_committee@cd.foundation](finance_committee@cd.foundation) to see if this project has the budgeting for this service.
 
 
