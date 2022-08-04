@@ -34,7 +34,7 @@ Updates will be provided bi-monthly to the community with more formal updates pr
 
 Questions? Requests? Comments?....Let us know! 
 
-[Email Outreach Committee Staff](outreach@cd.foundation)
+[Email Outreach Committee Staff](mailto://outreach@cd.foundation)
 
 
 ## Meetings
