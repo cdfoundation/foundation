@@ -53,7 +53,7 @@ Requests to be added to Outreach Committee agendas should be submitted at least 
 
 Subject Line: OC Agenda request [Meeting Date]
 
-[Outreach Committee Agenda Request](Outreach@cd.foundation)
+[Outreach Committee Agenda Request](mailto://outreach@cd.foundation)
 
 Outreach Committee Meeting agendas will be sent 3 days prior to the meeting along with any relevant updates. Agenda’s will often be accompanied by a request for information so please review those emails carefully.
 
