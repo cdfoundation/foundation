@@ -42,7 +42,7 @@ If you are nominating someone other than yourself, please confirm their interest
 Nominations are dependent on the position up for election. Please see the list below  for information on who is eligible to vote and nominate.
 
 
- #### Governing Board Chair 
+#### Governing Board Chair 
 
 * Nominations: Governing Board 
 * Voting: Governing Board
