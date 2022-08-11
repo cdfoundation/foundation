@@ -4,12 +4,12 @@
 
 ## Mission Statement
 
-The Outreach Committee is the place where the community comes together, including the projects, the members, and the ambassadors with the goal to identify opportunities to help market and communicate CDF's projects, SIGs, working groups, etc messages (new releases, need for contributors, etc.) within the CDF community and to the broader technical community in general. The Outreach Chair acts as the communication link between the board and the rest of the community.
+The Outreach Committee (OC) is the place where the community comes together, including the projects, the members, and the ambassadors with the goal to identify opportunities to help market and communicate Continuous Delivery Foundation's (CDF) vision, projects, Special Interest Groups (SIG) and Working Groups (WG) (new initiatives, new releases, need for contributors, etc.) within the CDF community and to the broader technical community in general. The OC Chair acts as the communication link between the board and the rest of the community.
 
 
 ## Members
 
-Members of the Outreach Committee should consist of one representative from each member company at the Premier, General  and End User membership levels as well as one representative for all adopted CDF projects and the Ambassador chair. This will make up the voting board to be led with direction from the Outreach Committee Chair. Additional project and community members may attend Outreach Committee meetings in a non-voting capacity. Members will be expected to contribute to initiatives aimed at growing the CDF community and supporting CDF projects.
+Members of the OC should consist of one representative from each member company at the Premier, General  and End User membership levels as well as one representative for all adopted CDF projects and the Ambassador Program Chair. This will make up the voting board to be led with direction from the OC Chair. Additional project and community members may attend OC meetings in a non-voting capacity. Members will be expected to contribute to initiatives aimed at growing the CDF community and supporting CDF projects.
 
 **Voting Members**
 
@@ -17,7 +17,7 @@ Members of the Outreach Committee should consist of one representative from each
 
 * Member Company Representatives
 * Project Representatives
-* Ambassador Chair
+* Ambassador Program Chair
 
 **Non Voting**
 
@@ -30,11 +30,11 @@ Members of the Outreach Committee should consist of one representative from each
 
 ## Communication
 
-Updates will be provided bi-monthly to the community with more formal updates provided monthly to the Governing Board. Upcoming events and initiatives supported by the CDF Outreach Committee will be listed on the community calendar.
+Updates will be provided bi-monthly to the community with more formal updates provided monthly to the CDF Governing Board (GB). Upcoming events and initiatives supported by the CDF OC will be listed on the community calendar.
 
 Questions? Requests? Comments?....Let us know! 
 
-[Email Outreach Committee Staff](mailto://outreach@cd.foundation)
+[Email Outreach Committee](mailto://outreach@cd.foundation)
 
 
 ## Meetings
@@ -42,7 +42,7 @@ Questions? Requests? Comments?....Let us know!
 
 ### **Agendas**
 
-Requests to be added to Outreach Committee agendas should be submitted at least one week prior to the regularly scheduled Outreach Committee meeting. 
+Requests to be added to OC agendas should be submitted at least one week prior to the regularly scheduled OC meeting. 
 
 ****Please include your****
 
@@ -55,7 +55,7 @@ Subject Line: OC Agenda request [Meeting Date]
 
 [Outreach Committee Agenda Request](mailto://outreach@cd.foundation)
 
-Outreach Committee Meeting agendas will be sent 3 days prior to the meeting along with any relevant updates. Agenda’s will often be accompanied by a request for information so please review those emails carefully.
+OC Meeting agendas will be sent 3 days prior to the meeting along with any relevant updates. Agenda’s will often be accompanied by a request for information so please review those emails carefully.
 
 
 ### **Meeting Structure**
@@ -65,7 +65,7 @@ Meetings will be interactive since updates will be shared via email, please come
 
 ## Meeting Cadence
 
-The Outreach Committee will have 3 monthly meetings.
+The OC will have 3 monthly meetings.
 
 ### TOC Project syncs
 
@@ -73,7 +73,7 @@ Purpose: Intended to establish CDF Project support provided by the Outreach Comm
 
 #### Attendees:
 
-* CDF Project Outreach Committee Representatives- to be selected by the projects
+* CDF Project OC Representatives - to be selected by the projects
 * CDF OC staff
 * Ambassador Chair
 * TOC Chair
@@ -97,7 +97,7 @@ Monthly- Dates TBD
 
 ### OC Meetings
 
-Outreach Committee meetings will be held monthly to ensure projects are supported and the community is engaged.
+OC meetings will be held monthly to ensure projects are supported and the community is engaged.
 
 #### Attendees:
 * Member company Reps
@@ -110,6 +110,6 @@ Outreach Committee meetings will be held monthly to ensure projects are supporte
 Monthly- Dates TBD
 
 
-## Ambassador Relationship to the Outreach Committee
+## Ambassador Program Relationship to the OC
 
-Ambassador Chair is a voting member of the Outreach Committee and the lead representative of the Ambassador community. OC will provide resources and guidance to Ambassadors for OC initiatives and set goals for the Ambassador community. The Ambassador chair will work autonomously to ensure goals and project needs are met. Both the Ambassador Chair and the Outreach Committee chair will receive leadership from the Executive Director of the Continuous Delivery Foundation.
+Ambassador Chair is a voting member of the OC and the lead representative of the Ambassador community. OC will provide resources and guidance to Ambassadors for OC initiatives and set goals for the Ambassador community. The Ambassador chair will work autonomously to ensure goals and project needs are met. Both the Ambassador Chair and the OC Chair will receive leadership from the Executive Director of the CDF.
