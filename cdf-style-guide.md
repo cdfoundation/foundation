@@ -2,7 +2,7 @@
 
 ## 1. Continuous Delivery and open source
 
-Online and in print media, the phrases "continuous delivery" and "open source" are written both with and without the hyphen. [Merriam-Webster](https://www.merriam-webster.com/dictionary/open-source) lists the phrase as "open-source," and the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/16/images/ch07_tab01.pdf) recommends a hyphen in noun + adjective compounds used as an adjective in front of a noun.
+Online and in print media, the phrases "continuous delivery" and "open source" are written both with and without the hyphen. [Merriam-Webster](https://www.merriam-webster.com/dictionary/open-source) lists the phrase as "open-source," and the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) recommends a hyphen in noun + adjective compounds used as an adjective in front of a noun.
 
 However, the [Open Source Initiative](https://opensource.org/), established in 1998, does not use a hyphen in "open source." Likewise, the Continuous Delivery Foundation does not use a hyphen for "continuous delivery" in its name. And the [IEEE Computer Society Style Guide](https://ieeecs-media.computer.org/assets/pdf/2016CSStyleGuide.pdf), which is maintained by the 72-year-old Computer Society, lists "open source" as the preferred usage.
 
