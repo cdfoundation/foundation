@@ -6,7 +6,7 @@
 
 The CDF User Stories Program features real-world use cases from companies embracing the change brought by Continuous Delivery. The goal is to show the impact of adopting Continuous Delivery as a software development practice along with enabling CI/CD technologies, such as the CDF projects.
 
-The stories build narratives around include, but are not limited to:
+The stories we want to build narratives around include, but are not limited to:
 
 * how adopting Continuous Delivery helped to increase release cadence and shorten the time to deliver new features and products in the hands of end users; 
 * showing the benefits of using modern CI/CD in combination with open source projects and how organizations employ them to achieve business objectives (view the [CDF Landscape](https://landscape.cd.foundation/) for inspiration) 
