@@ -5,7 +5,7 @@
 ## Mission Statement
 
 The Outreach Committee (OC) is the place where the community comes together, including the projects, the members, and the ambassadors with the goal to identify opportunities to help market and communicate Continuous Delivery Foundation's (CDF) vision, projects, Special Interest Groups (SIG) and Working Groups (WG) (new initiatives, new releases, need for contributors, etc.) within the CDF community and to the broader technical community in general. The OC Chair acts as the communication link between the board and the rest of the community.
-
+[Charter Reference](https://github.com/cdfoundation/charter/blob/master/CHARTER.md#4-outreach-committee)
 
 ## Members
 
@@ -33,8 +33,10 @@ Members of the OC should consist of one representative from each member company 
 Updates will be provided bi-monthly to the community with more formal updates provided monthly to the CDF Governing Board (GB). Upcoming events and initiatives supported by the CDF OC will be listed on the community calendar.
 
 Questions? Requests? Comments?....Let us know! 
+[Email Outreach Committee](mailto:outreach@cd.foundation)
 
-[Email Outreach Committee](mailto://outreach@cd.foundation)
+Outreach Committee uses Slack for additional collaboration opportunities. Please join #outreach-committee on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg)
+
 
 
 ## Meetings
