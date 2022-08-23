@@ -29,8 +29,4 @@ The Selection Committee will consist of members of the Governing Board that wish
 
 ## Committee Members
 
-* Kim Lewandowski	klewandowski@google.com
-* Raj Panchapakesan	rajp@jfrog.com
-* John Mark Walker	johnmark.walker@capitalone.com
-* Tracy Ragan	tracy@deployhub.com
-* Tracy Miranda	tmiranda@cloudbees.com 
+None
