@@ -48,13 +48,13 @@ Nominations are dependent on the position up for election. Please see the list b
 * Voting: Governing Board
 
 
-#### General Member Representative 1+2 
+#### General Member Representative (2 Representatives)
 
 * Nominations: End User and General Members
 * Voting: End User and General Members
 
 
-#### Committer/Contributor Representative 1+2
+#### Committer/Contributor Representative (2 Representatives)
 
 * Nominations: anyone in CDF Community
 * Voting: Governing Board
@@ -72,18 +72,18 @@ Nominations are dependent on the position up for election. Please see the list b
 * Voting: CDF TOC Voting Members
 
 
-#### Project Representative 1-4 (elections managed by projects)
+#### Project Representative (4 Representatives) (elections managed by projects)
 
 * Nominations: Each CDF project will elect their own project representative
 
 
-#### End User Representative 1+ 2
+#### End User Representative (2 Representatives)
 
 * Nominations: End User and General Members
 * Voting: End User and General Members
 
 
-#### TOC GB Representative 1-3
+#### TOC GB Representative (3 Representatives)
 
 * Nominations: TOC, GB 
 * Voting: Governing Board
@@ -131,3 +131,8 @@ Voting classes differ depending on the charter statements of the open position. 
 ## Announcing the Winner
 
 Winners will be determined by a majority vote of the established voting class and announced the Monday following the Election Phase via Email, Slack, Social, and the [CDF Website](https://cd.foundation/news/).
+
+##AddingIndividual to Relevant Channels, Email lists and website.
+
+Elected officals will be added to committee Slack Channels, Email lists, Zoom Accounts, and the CDF Website (if applicable)
+
