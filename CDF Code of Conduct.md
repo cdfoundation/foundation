@@ -1,65 +1,80 @@
-## CDF Community Code of Conduct v1.0
+# Contributor Covenant Code of Conduct
 
-### Contributor Code of Conduct
+## Our Pledge
 
-As contributors and maintainers in the CDF community, and in the interest of fostering
-an open and welcoming community, we pledge to respect all people who contribute
-through reporting issues, posting feature requests, updating documentation,
-submitting pull requests or patches, and other activities.
-
-We are committed to making participation in the CDF community a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression,
-sexual orientation, disability, personal appearance, body size, race, ethnicity, age,
-religion, or nationality.
-
-## Scope
-
-This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
-
-### CDF Events
-
-CDF events, or events run by the Linux Foundation with professional events staff, are governed by the Linux Foundation [Events Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/) available on the event page. This is designed to be used in conjunction with the CDF Code of Conduct.
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+Examples of behavior that contributes to creating a positive environment
+include:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
+* The use of sexualized language or imagery and unwelcome sexual attention or
+ advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
+* Publishing others' private information, such as a physical or electronic
+ address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+ professional setting
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
-By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect
-of managing this project.
-Project maintainers who do not follow or enforce the Code of
-Conduct may be permanently removed from the project team.
+## Our Responsibilities
 
-## Reporting
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-For incidents occurring in the CDF community, contact conduct@cd.foundation. You can expect a response within three business days.
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-More info TBD
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
 ## Enforcement
 
-More info TBD
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at conduct@cd.foundation. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-## Acknowledgements
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
-This Code of Conduct is adapted from the Contributor Covenant
-(http://contributor-covenant.org), version 2.0 available at
-http://contributor-covenant.org/version/2/0/code_of_conduct/
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
+
+## Events Code of Conduct
+
+Official CDF events are governed by the Linux Foundation [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/) available on the event page. The Events Code of Conduct supports the above policy and also includes more details on responding to incidents.
