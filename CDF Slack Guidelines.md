@@ -10,6 +10,9 @@ The [CDF Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE
 
 Outside of the issue queues, this is our best communication medium for projects. Please keep your messages on topic for each channel, and please use the appropriate channel. Spamming channels with unsolicited or frequent messages is not allowed.
 
+## Promoting Vendor Solutions, Products, and Services
+
+CD Foundation is a vendor neutral organization and promoting vendor solutions, products, and services are not allowed. 
 
 ## Unwanted Solicitation through Private Messages
 
