@@ -12,7 +12,7 @@ Outside of the issue queues, this is our best communication medium for projects.
 
 ## Promoting Vendor Solutions, Products, and Services
 
-CD Foundation is a vendor neutral organization and promoting vendor solutions, products, and services is not allowed. 
+CD Foundation is a vendor-neutral organization and promoting vendor solutions, products, and services is not allowed. 
 
 ## Unwanted Solicitation through Private Messages
 
@@ -28,11 +28,11 @@ Abuse of the voice/video calling features to call users without their permission
 
 The CDF Slack has an integrated tool for reporting issues. It may be accessed by clicking on "More actions", the "..." to the right of a message, and selecting Report message.
 
-Slack guidelines patterned after the [HubSpot Developer Slack Code of Conduct](https://designers.hubspot.com/slack/code-of-conduct) and the [Kubernetes Slack Guidelines](https://github.com/kubernetes/community/blob/master/communication/slack-guidelines.md).
+Slack guidelines were patterned after the [HubSpot Developer Slack Code of Conduct](https://designers.hubspot.com/slack/code-of-conduct) and the [Kubernetes Slack Guidelines](https://github.com/kubernetes/community/blob/master/communication/slack-guidelines.md).
 
 
 ## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member will not be tolerated.
 
-If a community member engages in unacceptable behavior, CDF staff may take any action deemed appropriate, up to and including a warning, removal of a message on channels, or temporary 30 day ban, along with a permanent ban for repeated violation of these guidelines.
+If a community member engages in unacceptable behavior, CDF staff may take any action deemed appropriate, up to and including a warning, removal of a message on channels, or temporary 30-day ban, along with a permanent ban for repeated violation of these guidelines.
