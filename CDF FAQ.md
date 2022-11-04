@@ -10,16 +10,18 @@ The [Continuous Delivery Foundation (CDF](https://cd.foundation/) is a neutral o
 
 The current projects under the CD Foundation are
 
+* [CDEvents](https://cdevents.dev/)
 * [Jenkins](https://www.jenkins.io/)
 * [Jenkins X](https://jenkins-x.io/)
+* [Ortelius](https://ortelius.io/)
+* [Screwdriver](https://screwdriver.cd/)
+* [Shipwright](https://shipwright.io/)
 * [Spinnaker](https://spinnaker.io/)
 * [Tekton](https://tekton.dev/)
-* [Screwdriver](https://screwdriver.cd/)
-* [Ortelius](https://ortelius.io/)
-* [Shipwright](https://shipwright.io/)
-* [CDEvents](https://cdevents.dev/)
 
-The projects and their details are avaiable on [the CD Foundation website](https://cd.foundation/projects/) and [the CD Foundation CD Landscape](https://landscape.cd.foundation/).
+
+
+The projects and their details are available on [the CD Foundation website](https://cd.foundation/projects/) and [the CD Foundation CD Landscape](https://landscape.cd.foundation/).
 
 ## Why did the CD community form the foundation? Why is it needed?
 
@@ -33,7 +35,7 @@ By establishing a vendor-neutral CDF, the industry’s top developers, end users
 
 ## Why should developers care?
 
-The challenges CI/CD projects face today, including tool complexity and lack of industry standardization around pipelines and other CI/CD tools, are stifling growth and innovation. Lacking a neutral, legal entity and strong governance, projects struggle to attract valuable support from new developers and organizations. Projects maintainers and developers spend a significant amount of time and money on workarounds in areas such as interoperability, security and oversight. This takes attention away from new development and innovation. A foundation with broad industry support will be able to more quickly define industry specs and create more opportunities for cross-project collaboration to improve tools for developers.
+The challenges CI/CD projects face today, including tool complexity and lack of industry standardization around pipelines and other CI/CD tools, are stifling growth and innovation. Lacking a neutral, legal entity and strong governance, projects struggle to attract valuable support from new developers and organizations. Project maintainers and developers spend a significant amount of time and money on workarounds in areas such as interoperability, security and oversight. This takes attention away from new development and innovation. A foundation with broad industry support will be able to more quickly define industry specs and create more opportunities for cross-project collaboration to improve tools for developers.
 
 ## Who uses CD?
 
@@ -67,7 +69,7 @@ Organizations interested in becoming members of the CDF and shaping its governan
 
 ## Where can I learn more about CDF and stay up to date?
 
-The CDF is always publishing content to support the projets of the CDF and the developers of those projects. We publish on topics of case studies, whitepapers, code releases, events, and much more. Get involved with the links below:
+The CDF is always publishing content to support the projects of the CDF and the developers of those projects. We publish on topics of case studies, whitepapers, code releases, events, and much more. Get involved with the links below:
 
 - [Newsletter](https://cd.foundation/stay-connected/)
 - [Email Lists](https://lists.cd.foundation/g/main)
