@@ -38,6 +38,6 @@ All we ask is that, when you use the organization’s and projects’ names, log
 * Use of Continuous Delivery Foundation brands on your own web pages in connection with a product or service offering.
 * Marketing collateral within which you plan to use the words “Continuous Delivery Foundation” or any of our project names or logos.
 
-** Copyright © 2022 CD Foundation The Linux Foundation® . All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. **
+**Copyright © 2022 CD Foundation The Linux Foundation® . All rights reserved. The Linux Foundation has registered trademarks and uses trademarks.**
 
-** For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy ](http://www.linuxfoundation.org/privacy)and [Terms of Use.](http://www.linuxfoundation.org/terms)**
+**For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy ](http://www.linuxfoundation.org/privacy)and [Terms of Use](http://www.linuxfoundation.org/terms)**.
