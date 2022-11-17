@@ -3,7 +3,7 @@
 
 ## Governing Board Chair
 
-Term: 
+Term: 2 years (Re-elected)12/20-12/24
 
 Current Representative: Steven Chin, JFrog
 
@@ -115,7 +115,7 @@ Current Representative: Robert Reeves, Liquibase
 
 ## Outreach Committee Chair
 
-Term:  (1 year) 6/1/2022-6/1/2023
+Term:  (2 years) 6/1/2022-6/1/2024
 
 Current Representative: Lori Lorusso, JFrog
 
