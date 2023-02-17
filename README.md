@@ -65,7 +65,7 @@ _(note: if you do not have an LFid you will not receive meeting invitations)_
 
 ## Other Content
 
-A lot of project, SIG, and TOC-related content is available in the [TOC Repo](https://github.com/cdfoundation/toc). 
+Project, SIG, and TOC related content is availabe in the [TOC Repo](https://github.com/cdfoundation/toc). 
 
 The [CDF Website](https://cd.foundation/about/) has information on all programs offered publicly by CDF.
 
