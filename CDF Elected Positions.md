@@ -134,4 +134,4 @@ Current Representative: Vacant
 
 Term:  (1 year)
 
-Current Representative: Vacant
+Current Representatives: Tracy Ragan, DeployHub, and Ullrich Hafner
