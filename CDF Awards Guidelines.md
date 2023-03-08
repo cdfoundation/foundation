@@ -18,7 +18,8 @@ Graduated projects (currently Jenkins and Tekton) have three awards.
 
 ## Nominations and Voting
 The nominations for CDF Awards are done directly under corresponding issues created in cdfoundation/foundation repository. 
-The voting will be done via a Google form. Members of the Outreach Committee, Technical Oversight Committee, and Ambassador Program vote to determine the winners of the 5 CDF awards listed above.
+The voting will be done via a Google form. Members of the Outreach Committee, Technical Oversight Committee, and Ambassador Program vote to determine the winners of the 5 CDF awards listed above. Only 1 vote per company will be counted when tallying up the final vote to determine each of the award winners.
+
 The projects are responsible for running their own award process.
 
 ## Eligibility
