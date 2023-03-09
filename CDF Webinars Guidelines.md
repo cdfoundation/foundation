@@ -1,104 +1,100 @@
 # CDF Webinar Guidelines #
 
-## Overview ##
+## Overview
 
-CDF webinars provide a cost-effective way to educate the community about trends and open source CI/CD technologies. Webinars are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
+CDF webinars provide a cost-effective way to educate the community about trends and open source CD technologies. Webinars are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
 
-Please note: We are unable to share leads due to LF privacy policy.
+**Please note:** We are unable to share leads due to the Linux Foundation’s privacy policy.
 
-## Webinar day and time ##
+**Update:** We no longer host live webinars, but record them in advance and post them as Premiere Events on our YouTube Channel. This way, the speaker can interact with folks directly in the chat as the event progresses.
 
-English language webinars are scheduled for every Tuesday 10am-11am Pacific Time, Wednesday 10am-11am Pacific Time, and Thursday 9am-10am Pacific Time.
 
-Project, Ambassador, and SIG webinars are scheduled for Friday 10am - 11am Pacitic Time.
+## Who Can Host a Webinar
 
-Chinese language webinars are typically scheduled for Wednesday or Thursday, 10am Beijing / Shanghai time. 
-
-## Who can host a webinar ##
-
-* Platinum and Gold Members can host 1 webinar per quarter.
-* Silver members can host 1 webinar every 6 months.
-* End user supporter members cannot hold a webinar.
-* Graduated and incubating projects can hold a webinar twice a year. These webinars can communicate release launch details or provide a project update. The exception is Kubernetes who holds a webinar each quarter approximately 30 days after the release.
-* Sandbox projects cannot hold a webinar. The exception is a CDF member company can discuss their open source sandbox project during their allotted member webinar.
+* Premier Members can host 1 webinar per quarter.
+* General Members can host 1 webinar every 6 months.
+* End User and Associate Members cannot hold a webinar.
+* Graduated and incubating projects can hold a webinar twice a year. These webinars can communicate release launch details or provide a project update. 
+* Sandbox projects cannot hold a webinar. The exception is when a CDF member company can discuss their open source sandbox project during their allotted member webinar.
 * CDF Ambassadors can hold a webinar as it fits their schedule.
 * CDF SIGs can host 1 webinar a year.
+* CDF Member webinars will have "Member webinar" preceding their webinar title.
+* Sponsored Webinars (e.g., event sponsorship) will have "Sponsored Webinar" preceding their webinar title.
+* CDF Project webinars will have "Project webinar" preceding their webinar title.
+* CDF Ambassador webinars will have "Ambassador webinar" preceding their webinar title.
+* CDF SIG webinars will have "SIG webinar" preceding their webinar title.
 
-* CDF Member webinars will have "Member webinar" preceeding their webinar title.
-* CDF project webinars will have "Project webinar" preceeding their webinar title.
-* CDF Ambassador webinars will have "Ambassador webinar" preceeding their webinar title.
-* CDF SIG webinars will have "SIG webinar" preceeding their webinar title.
 
-## Webinar content guidelines ##
+## Content Guidelines
 
-* The simplest guideline is that webinar topics should be comparable to what would be accepted in a CDF event talk. 
-* No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., CI/CD orchestration), but webinars should not be promotional. 
+* The simplest guideline is that a webinar topic should be comparable to what would be accepted in a CDF event talk.
+* No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., CI/CD orchestration), but webinars should not be promotional.
 * Any platforms, tools, or technologies you are describing must be open source and work with CDF projects.
 
-## Webinar Calendar ##
 
-The [webinar calendar] (https://calendly.com/tbd) is available for a 6-month period, for example 1H 2020 and 2H 2020. Approximately 6 weeks before the beginning of the time period, the webinar calendar is opened up for scheduling.
+## How to Pick a Topic
 
-To choose a webinar date, go to the webinar calendar to view the available dates. Choose your preferred date. You will receive a calendar invite automatically via Calendly. The calendar invite will be updated with the company / project name, which confirms your webinar. When it gets closer to the webinar date, an email is sent confirming the webinar date is still good for you and outlines the next steps.
+* The purpose of the webinars is to educate the community and align your business with important thought-leadership topics.
+* The audience is interested in technical demos that help them solve problems and want to be able to ask your expert questions.
+* Our audience spans developers, architects, CIOs, and CTOs. Topics should be tailored to your target audience.
+* Top Performing Topics: Monitoring/Observability, Interoperability, CDF Project Updates or Intros, CI/CD, Developer Experience, Deployment Strategies, Edge Computing, Security (ex. RBAC), ML/AI, Platform Engineering.
 
-## How to pick a topic ##
 
-* The purpose of the webinars is to educate the community and align your business with important thought-leadership topics. 
-* The audience is interested in technical demos that help them solve problems and want to be able to ask your expert questions. 
-* Our audience spans from developers, architects, CIOs, and CTOs. Topics should be tailored for which of those audiences you're trying to target. 
-* We are emphasizing SEO optimization this year to drive more registrations and views after the fact, so please take some extra time to make sure your abstract is highlighting important keywords. We'll be making suggestions as well. 
-* Top Performing Topics: Monitoring/Observability, CDF Project Updates or Intros, CI/CD, Developer Experience, Deployment Strategies, Edge Computing, Security (ex. RBAC), ML/AI. 
+## Submit a Webinar
 
-## Webinar Checklist ##
+Please submit your webinar idea 6 weeks before the date you would like it to air as a Premiere Video on the CDF YouTube channel.
 
-4 weeks beforehand
-* Title
-* Abstract
-* Speaker Information
-  * Headshot 
-  * Title
-  * Company
-  * Bio
-* Email addresses for all speakers / panelists
+Submit Webinar at social@cd.foundation
 
-1 week beforehand
-* Webinar presentation slides
-* If you would like a live walkthrough, it would be scheduled for this week 
 
-All deliverables should be sent to [Webinar](mailto:webinars@cd.foundation). 
+## Checklist
 
-## Webinar Promotion & Prep Details ##
+1 week before the recording date, please share the following with the CDF:
 
-* Upon receipt of the abstract and the webinar being set up in Zoom, the hosting company will receive a link to the webinar registration page. The hosting company should use that link to promote the webinar.
-* The webinar is added to the CDF webinar page.
-* CDF promotes webinars via email, CDF newsletters, and Twitter.
-* Our most successful webinars are when the presenting company helps promote in addition to CDF promotion. We are often able to double our attendance in these cases. 
+* Webinar presentation slides to social@cd.foundation
+* Promote your webinar
 
-## Webinar: Presentations ##
-* 1 week prior to your webinar, send your webinar presentation to [Webinar](mailto:webinars@cd.foundation). All presentations must be reviewed prior to the webinar.
-* Logos:
-  * Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 CI/CD projects, products, and companies are available in the CDF landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). 
-  * Please see the CDF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S as well as the proper capitalization of projects like gRPC and containerd.
 
-## Webinar Moderator ##
+## Recording Details
+
+* Upon confirmation of the webinar, the CDF will schedule a time for the recording with the speaker.
+
+
+## Presentations
+
+Logos
+
+* Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. 
+* Visit [CDF Artwork](https://github.com/cdfoundation/artwork) page for CDF and CDF project logos.
+* High-res logos of over 1000 CI/CD projects, products, and companies are available in the [CDF Landscape](https://landscape.cd.foundation/) and the serverless and member landscapes. All logos are in “card mode” and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not).
+* Please see the [CDF Style Guide](https://github.com/cdfoundation/foundation/blob/main/CDF%20Style%20Guide.md) which covers things like abbreviations to use as well as the proper capitalization of projects.
+
+
+## Moderator
 
 CDF will provide a moderator for the webinar. The moderator is typically a CDF ambassador or a CDF staff member.
 
-The moderator is responsible for covering the housekeeping items and helping the presenter manage the Q&A.
+
+## Day-Of Details
+
+* Soundcheck: 20 minutes before the webinar starts
+* Typical timing of the webinar: 2-5 minute introduction, 30-45 minute presentation
+* Q&A will not happen during the recording but during the premier in the live chat.
+* A CDF Ambassador or CDF staff will help moderate (introduction, etc.)
+* Webinar Platform: Zoom
+* Live Premiere Platform: YouTube
+
+After the webinar recording, the CDF will schedule the live Premiere on YouTube and share the link with the speaker.
+
+**Please note:** We are unable to share the list of leads or include any promotion to drive leads.
 
 
-## Webinar: Day-Of Details ##
+## Promotion
 
-* Soundcheck: ½ hour before the webinar starts
-* Live Webinar: Tuesday 10am-11am PT, Wednesday 10am-11am PT, Thursday 9am-10am PT, Friday 10am - 11am PT
-* Typical timing of the webinar - approximately 5 minute introduction, 45 minute presentation, 10 minutes of Q&A
-* A CDF Ambassador or CDF staff will help moderate (introduction, feeding questions to the presenter) 
-* Webinar Platform: Zoom 
+* CDF promotes webinars via its [event calendar](https://cd.foundation/), newsletters, LinkedIn, and Twitter.
+* Our most successful webinars are when the presenting company helps promote in addition to CDF promotion. We are often able to double our attendance in these cases.
 
-After the webinar, registration numbers and a link to the webinar on YouTube will be shared with the company hosting the webinar.
 
-Please note: We are unable to share the list of leads or include any promotions with the intention of driving leads. 
+## Summary
 
-## Summary ##
-
-Any questions on the webinar program, email webinars@cd.foundation.
+Any questions on the webinar program, email social@cd.foundation.
