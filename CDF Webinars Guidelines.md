@@ -2,9 +2,9 @@
 
 ## Overview
 
-CDF webinars provide a cost-effective way to educate the community about trends and open source CD technologies. Webinars are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
+CDF webinars provide a cost-effective way to educate the community about trends and open source CD technologies. Webinars are offered to CDF members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
 
-**Please note:** We are unable to share leads due to the Linux Foundation’s privacy policy.
+**Please note:** We are unable to share leads due to [the Linux Foundation’s privacy policy](https://www.linuxfoundation.org/legal/privacy-policy).
 
 **Update:** We no longer host live webinars, but record them in advance and post them as Premiere Events on our YouTube Channel. This way, the speaker can interact with folks directly in the chat as the event progresses.
 
@@ -15,14 +15,13 @@ CDF webinars provide a cost-effective way to educate the community about trends 
 * General Members can host 1 webinar every 6 months.
 * End User and Associate Members cannot hold a webinar.
 * Graduated and incubating projects can hold a webinar twice a year. These webinars can communicate release launch details or provide a project update. 
-* Sandbox projects cannot hold a webinar. The exception is when a CDF member company can discuss their open source sandbox project during their allotted member webinar.
 * CDF Ambassadors can hold a webinar as it fits their schedule.
 * CDF SIGs can host 1 webinar a year.
-* CDF Member webinars will have "Member webinar" preceding their webinar title.
+* CDF Member webinars will have "Member Webinar" preceding their webinar title.
 * Sponsored Webinars (e.g., event sponsorship) will have "Sponsored Webinar" preceding their webinar title.
-* CDF Project webinars will have "Project webinar" preceding their webinar title.
-* CDF Ambassador webinars will have "Ambassador webinar" preceding their webinar title.
-* CDF SIG webinars will have "SIG webinar" preceding their webinar title.
+* CDF Project webinars will have "Project Webinar" preceding their webinar title.
+* CDF Ambassador webinars will have "Ambassador Webinar" preceding their webinar title.
+* CDF SIG webinars will have "SIG Webinar" preceding their webinar title.
 
 
 ## Content Guidelines
@@ -44,14 +43,14 @@ CDF webinars provide a cost-effective way to educate the community about trends 
 
 Please submit your webinar idea 6 weeks before the date you would like it to air as a Premiere Video on the CDF YouTube channel.
 
-Submit Webinar at social@cd.foundation
+Submit Webinar at webinars@cd.foundation
 
 
 ## Checklist
 
 1 week before the recording date, please share the following with the CDF:
 
-* Webinar presentation slides to social@cd.foundation
+* Webinar presentation slides to webinars@cd.foundation
 * Promote your webinar
 
 
@@ -66,7 +65,7 @@ Logos
 
 * Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. 
 * Visit [CDF Artwork](https://github.com/cdfoundation/artwork) page for CDF and CDF project logos.
-* High-res logos of over 1000 CI/CD projects, products, and companies are available in the [CDF Landscape](https://landscape.cd.foundation/) and the serverless and member landscapes. All logos are in “card mode” and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not).
+* High-res logos of over 100 CI/CD projects, products, and companies are available in the [CDF Landscape](https://landscape.cd.foundation/). All logos are in “card mode” and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not).
 * Please see the [CDF Style Guide](https://github.com/cdfoundation/foundation/blob/main/CDF%20Style%20Guide.md) which covers things like abbreviations to use as well as the proper capitalization of projects.
 
 
@@ -97,4 +96,4 @@ After the webinar recording, the CDF will schedule the live Premiere on YouTube 
 
 ## Summary
 
-Any questions on the webinar program, email social@cd.foundation.
+Any questions on the webinar program, email webinars@cd.foundation.
