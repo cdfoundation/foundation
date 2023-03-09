@@ -132,6 +132,6 @@ Current Representative: Vacant
 
 ## Awards Officer
 
-Term:  (1 year)
+Term:  (1 year) 02/2023-01/2024
 
-Current Representatives: Tracy Ragan, DeployHub, and Ullrich Hafner
+Current Representatives: Tracy Ragan, DeployHub, and Ullrich Hafner, University of Applied Sciences Munich
