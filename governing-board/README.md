@@ -16,7 +16,7 @@ The current Governing Board consists of the representatives listed on this page:
 ### Governing Board Chair
 
 Stephen Chin of JFrog is the current elected governing board chair
-   * Term: 30 November 2019 - 28 February 2022
+   * Term: 28 February 2022- 28 February 2024
 
 ## Communication Channels
 
