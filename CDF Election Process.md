@@ -79,8 +79,9 @@ Nominations are dependent on the position up for election. Please see the list b
 
 #### End User Representative (2 Representatives)
 
-* Nominations: End User and General Members
-* Voting: End User and General Members
+* Nominations: anyone in CDF Community
+* Eligibility: anyone who represents an end user organization regardless of their CDF membership
+* Voting: End User Members
 
 
 #### TOC GB Representative (3 Representatives)
