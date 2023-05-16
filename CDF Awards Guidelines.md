@@ -30,6 +30,51 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 
 
 ## Previously Awarded
+
+### 2023 Winners
+
+#### Top CDF Ambassador
+* [Saim Safdar](https://github.com/Saim-Safdar)
+
+#### Top CDF Contributor
+* [Steve Taylor](https://github.com/sbtaylor15)
+
+#### Top Doc(umenter)
+* [Terry Cox](https://github.com/tdcox)
+
+#### Continuous Enthusiast
+* [Lori Lorusso](https://twitter.com/LoriLorusso)
+
+#### Top CDF End User
+* [eBay](https://twitter.com/eBay)
+
+#### Most Valuable Project Contributors
+* CDEvents: [Emil Bäckmark](https://github.com/e-backmark-ericsson)
+* Jenkins: [Jan Faracik](https://github.com/janfaracik)
+* Jenkins X: [Mårten Svantesson](https://github.com/msvticket)
+* Ortelius: [Sacha Wharton](https://github.com/sachajw)
+* Pyrsia: [Steve Taylor](https://github.com/sbtaylor15)
+* Screwdriver: [Yuta Kaneda](https://github.com/yk634)
+* Shipwright: [Otávio Fernandes](https://github.com/otaviof)
+* Spinnaker: [David Byron](https://github.com/dbyron-sf)
+* Tekton: [Jerop Kipruto](https://github.com/jerop)
+
+#### Jenkins Security MVP
+* [Daniel Beck](https://github.com/daniel-beck)
+
+#### Jenkins Most Valuable Advocate
+* [Mark Waite](https://github.com/MarkEWaite)
+
+#### Tekton Security MVP
+* [Billy Lynch](https://github.com/wlynch)
+
+#### Tekton Most Valuable Advocate
+* [Andrea Frittoli](https://github.com/afrittoli)
+
+This year, the award officers were: [Tracy Ragan](https://github.com/TracyRagan) and [Ullrich Hafner](https://github.com/uhafner)
+
+---
+
 ### 2022 Winners
 #### Top CDF Ambassador
 * [Garima Bajpai](https://twitter.com/bajpaigarima1)
