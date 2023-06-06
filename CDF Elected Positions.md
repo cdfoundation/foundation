@@ -10,30 +10,30 @@ Current Representative: Steven Chin, JFrog
 
 ## General Member Representative 1
 
-Term: 1year 6/30/2022-6/30/2023
+Term: 1 year 5/25/2023-5/24/2023
 
-Current Representative: Justin Abrahms, eBay
+Current Representative: Ole Lensmar, Testkube
 
 
 ## General Member Representative 2
 
-Term: 1 year 2/1/2022-2/1/2023
+Term: 1 year 2/14/2023-2/14/2024
 
-Current Representative: Gerard Mcmahon, Fidelity Investments
+Current Representative: Gerard McMahon, Fidelity Investments
 
 
 ## Committer/Contributor Representative 1
 
 Term: 1year 7/1/2022-6/30/2023
 
-Current Representative: Brad McCoy, 
+Current Representative: Brad McCoy, Basiq
 
 
 ## Committer/Contributor Representative 2
 
 Term: 1 year 7/1/2022-6/30/2023
 
-Current Representative: Andrea Fritoli, 
+Current Representative: Andrea Frittoli, IBM
 
 
 ## Treasurer/ Budget Committee Chair
@@ -45,9 +45,9 @@ Current Representative: N/A
 
 ## TOC Chair
 
-Term: 1 year 8/31/2021-8/31/2022
+Term: 1 year 1/17/2023-1/15/2024
 
-Current Representative: Oleg Naneshev, Dynatrace
+Current Representative: Andrea Frittoli, IBM
 
 
 ## Project Representative 1
@@ -80,16 +80,16 @@ Current Representative: Steve Taylor, DeployHub (Ortelius)
 
 ## End User Representative 1
 
-Term: (1 year) 5/1/2022-5/1/2023
+Term: (1 year) 5/1/2023-5/1/2024
 
-Current Representative: Justin Abrams, eBay
+Current Representative: Dadisi Sanyika, Apple
 
 
 ## End User Representative 2
 
-Term: (1 year) 5/1/2022-5/1/2023
+Term: (1 year) 5/1/2023-5/1/2024
 
-Current Representative: Emil Bäckmark, Ericsson
+Current Representative: Neil McGonigle, Fidelity Investments
 
 
 ## TOC GB Representative 1
