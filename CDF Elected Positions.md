@@ -2,7 +2,7 @@
 
 ##  Governing Board
 
-### Governing Board Chair
+### Chair
 
 Term: 2 years (Re-elected) 12/20-12/24
 
