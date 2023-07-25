@@ -25,16 +25,16 @@ Current Representative: Gerard Mcmahon, Fidelity Investments
 
 ### Committer/Contributor Representative 1
 
-Term: 1 year 7/1/2022-6/30/2023
+Term: 1 year 7/18/2023-7/17/2024
 
 Current Representative: Brad McCoy, Basiq
 
 
 ### Committer/Contributor Representative 2
 
-Term: 1 year 7/1/2022-6/30/2023
+Term: 1 year 7/18/2023-7/17/2024
 
-Current Representative: Andrea Fritoli, IBM
+Current Representative: Mark Waite, CloudBees
 
 
 ### Treasurer/ Budget Committee Chair
