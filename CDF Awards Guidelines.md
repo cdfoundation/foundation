@@ -1,6 +1,8 @@
 # 🏆 CDF Community Awards
 The Continuous Delivery Foundation recognizes community members, developers, and advocates that work hard to make this community great and push for Continuous Delivery advancements.
 
+📣 Nominations for 2024 are open. [Nominate someone](https://cd.foundation/cdf-community-awards-2024/)
+
 We traditionally have the following awards, awarded at our annual cdCon event:
 * **Continuous Enthusiast**: The special award for the community contributors. When you think of the CDF community, this person should be on the shortlist, because they're everywhere!
 * **Top CDF Ambassador**: A community champion for the continuous delivery space. This individual helps spread awareness of the CDF and its projects. The CDF Ambassador leverages multiple platforms, both online as well as speaking engagements, driving interest and excitement around the ecosystem. Must be part of the active Ambassador Cohort.
@@ -26,7 +28,7 @@ The projects are responsible for running their own award process.
 All community members are eligible to be nominated for all of the award categories based on their contributions except for the category in which they won the award during the last year. The reason for this is that there are many people involved in the success of the foundation and its projects. We want to make sure that more than one person is recognized for their efforts. 
 
 ## Winners
-The winners are announced during the yearly cdCon event. The breakdown of votes is not disclosed, however members of the community will be invited to take part in the awards process as a CDF Award Officer (one volunteer per year) to observe nomination and voting process to ensure the transparency and sanctity of the award process.
+The winners are announced during the yearly cdCon event. The breakdown of votes is not disclosed, however members of the community will be invited to take part in the awards process as a CDF Award Officer (two volunteers per year) to observe nomination and voting process to ensure the transparency and sanctity of the award process. [Apply to be a 2024 Award Officer](https://forms.gle/sK8Q2G7gN9FhM27H7).
 
 
 ## Previously Awarded
