@@ -1,7 +1,7 @@
 # 🏆 CDF Community Awards
 The Continuous Delivery Foundation recognizes community members, developers, and advocates that work hard to make this community great and push for Continuous Delivery advancements.
 
-📣 Nominations for 2024 are open. [Nominate someone](https://cd.foundation/cdf-community-awards-2024/)
+📣 Nominations are closed. Voting will open February 22, 2024.
 
 We traditionally have the following awards, awarded at our annual cdCon event:
 * **Continuous Enthusiast**: The special award for the community contributors. When you think of the CDF community, this person should be on the shortlist, because they're everywhere!
@@ -32,6 +32,11 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 
 
 ## Previously Awarded
+
+### 2024 Winners
+To be announced at [cdCon 2024](https://cd.foundation/cdcon-2024/) in Seattle, Washington. A microconference of Open Source Summit North America, April 16-18.
+
+This year, the award officers are: V SREENIVAS and Bervianto Leo Pratama.
 
 ### 2023 Winners
 
