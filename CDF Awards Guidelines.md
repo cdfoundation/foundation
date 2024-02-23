@@ -36,7 +36,7 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 ### 2024 Winners
 To be announced at [cdCon 2024](https://cd.foundation/cdcon-2024/) in Seattle, Washington. A microconference of Open Source Summit North America, April 16-18.
 
-This year, the award officers are: V SREENIVAS and Bervianto Leo Pratama.
+This year, the award officers are: Vutukuri Sreenivas and Bervianto Leo Pratama.
 
 ### 2023 Winners
 
