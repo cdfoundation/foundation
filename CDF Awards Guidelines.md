@@ -34,7 +34,43 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 ## Previously Awarded
 
 ### 2024 Winners
-To be announced at [cdCon 2024](https://cd.foundation/cdcon-2024/) in Seattle, Washington. A microconference of Open Source Summit North America, April 16-18.
+#### Top CDF Ambassador
+* [Brad McCoy](https://github.com/bradmccoydev)
+
+#### Top CDF Contributor
+* [Utkarsh Sharma](https://github.com/codeWithUtkarsh)
+
+#### Top Doc(umenter)
+* [Ole Lensmar](https://github.com/olensmar)
+
+#### Continuous Enthusiast
+* [Alyssa Tong](https://www.linkedin.com/in/alyssa-tong-98b0a21/)
+* [Andrea Frittoli](https://github.com/afrittoli)
+
+#### Top CDF End User
+* [Fidelity Investments](https://twitter.com/Fidelity)
+
+#### Most Valuable Project Contributors
+* CDEvents: [Andrea Frittoli](https://github.com/afrittoli)
+* Jenkins: [Stefan Spieker](https://github.com/StefanSpieker)
+* Jenkins X: [Tom Hobson](https://github.com/tomhobson)
+* Ortelius: [Utkarsh Sharma](https://github.com/codeWithUtkarsh)
+* Screwdriver: [Alan Dong](https://github.com/ldong)
+* Shipwright: [Enrique Encalada](https://github.com/qu1queee)
+* Spinnaker: [Sandesh Jain](https://www.linkedin.com/in/sandesh-j-62b6a215/)
+* Tekton: [Alan Greene](https://github.com/AlanGreene)
+
+#### Jenkins Security MVP
+* [Yaniv Nizry](https://github.com/Yaniv-git)
+
+#### Jenkins Most Valuable Advocate
+* [Darin Pope](https://github.com/darinpope)
+
+#### Tekton Security MVP
+* [Vincent Demeester](https://github.com/vdemeester)
+
+#### Tekton Most Valuable Advocate
+* [Al Huizenga](https://github.com/alhuizenga)
 
 This year, the award officers are: Vutukuri Sreenivas and Bervianto Leo Pratama.
 
