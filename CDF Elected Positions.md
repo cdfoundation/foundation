@@ -4,9 +4,9 @@
 
 ### Chair
 
-Term: 2 years (Re-elected) 12/20-12/24
+Term: 2 years (Re-elected) 1/2024-1/2026
 
-Current Representative: Steven Chin, JFrog
+Current Representative: Dadisi Sanyika, Apple
 
 
 ### General Member Representative 1
@@ -55,9 +55,9 @@ Current Representative: Andrea Fritoli, IBM
 
 ### Project Representative 1
 
-Term: (2 years) 7/1/2023-6/30/2025
+Term: (2 years)  7/17/2024-7/17/2026
 
-Current Representative: Alan Dong, Yahoo (Screwdriver)
+Current Representative: Jason McIntosh |  Spinnaker | Engineering Architect, Harness
 
 
 ### Project Representative 2
@@ -76,44 +76,44 @@ Current Representative: Mark Waite, CloudBees (Jenkins)
 
 ### Project Representative 4
 
-Term: (2 years) 7/1/2023-6/30/2025
+Term: (2 years) 7/17/2024-7/17/2026
+
+Current Representative:Tracy Ragan | Ortelius |  CEO, DeployHub 
+
+### End User Representative 1
+
+Term: (1 year)  7/17/2024-7/17/2026
 
 Current Representative: Steve Taylor, DeployHub (Ortelius)
 
 
-### End User Representative 1
-
-Term: (1 year) 5/1/2023-5/1/2024
-
-Current Representative: Dadisi Sanyika, Apple
-
-
 ### End User Representative 2
 
-Term: (1 year) 5/1/2023-5/1/2024
+Term: (1 year)  7/17/2024-7/17/2026
 
-Current Representative: Neil McGonigle, Fidelity Investments
+Current Representative: Damien Curry, NGINX
 
 
 ### GB Representative 1
 
-Term: (2 years) 7/1/2022-7/1/2024
+Term: (2 years) 7/17/2024-7/17/2026
 
-Current Representative: Melissa McKay, JFrog
+Current Representative: Benjamin Powell, Apple
+
 
 
 ### GB Representative 2
 
-Term: (2 years) 7/1/2022-7/1/2024
+Term: (2 years)  7/17/2024-7/17/2026
 
-Current Representative: Tracy Ragan, Deploy Hub
+Current Representative: Carlos Tadeu Panato Jr, Chainguard
 
 
 ### GB Representative 3
 
-Term: (2 years) 7/1/2022-7/1/2024
+Term: (2 years)  7/17/2024-7/17/2026
 
-Current Representative: Robert Reeves, Liquibase
+Current Representative: Garima Bajpai, Founder DevOps Community of Practice
 
 
 ## Outreach Committee
