@@ -1,7 +1,7 @@
 # 🏆 CDF Community Awards
 The Continuous Delivery Foundation recognizes community members, developers, and advocates that work hard to make this community great and push for Continuous Delivery advancements.
 
-📣 Nominations are closed. Voting will open February 22, 2024.
+📣 Nominations for 2025 will open soon.
 
 We traditionally have the following awards, awarded at our annual cdCon event:
 * **Continuous Enthusiast**: The special award for the community contributors. When you think of the CDF community, this person should be on the shortlist, because they're everywhere!
