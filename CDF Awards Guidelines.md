@@ -28,7 +28,7 @@ The projects are responsible for running their own award process.
 All community members are eligible to be nominated for all of the award categories based on their contributions except for the category in which they won the award during the last year. The reason for this is that there are many people involved in the success of the foundation and its projects. We want to make sure that more than one person is recognized for their efforts. 
 
 ## Winners
-The winners are announced during the yearly cdCon event. The breakdown of votes is not disclosed, however members of the community will be invited to take part in the awards process as a CDF Award Officer (two volunteers per year) to observe nomination and voting process to ensure the transparency and sanctity of the award process. [Apply to be a 2024 Award Officer](https://forms.gle/sK8Q2G7gN9FhM27H7).
+The winners are announced during the yearly cdCon event. The breakdown of votes is not disclosed, however members of the community will be invited to take part in the awards process as a CDF Award Officer (two volunteers per year) to observe nomination and voting process to ensure the transparency and sanctity of the award process. [Apply to be a 2025 Award Officer](https://forms.gle/pTE1PFC19Uf4Bkqv7).
 
 
 ## Previously Awarded
