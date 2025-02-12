@@ -25,9 +25,9 @@ Current Representative: Gerard Mcmahon, Fidelity Investments
 
 ### Committer/Contributor Representative 1
 
-Term: 1 year 7/18/2023-7/17/2024
+Term: 1 year 2/1/2025-2/1/2026
 
-Current Representative: Brad McCoy, Basiq
+Current Representative: Sasha Wharton, Nagarro
 
 
 ### Committer/Contributor Representative 2
@@ -48,7 +48,7 @@ Current Representative: N/A
 
 ### Chair
 
-Term: 1 year 1/17/2023-1/16/2024
+Term: 1 year 2/1/2025-2/1/2026
 
 Current Representative: Andrea Fritoli, IBM
 
@@ -120,9 +120,7 @@ Current Representative: Garima Bajpai, Founder DevOps Community of Practice
 
 ### Chair
 
-Term:  (2 years) 6/1/2022-6/1/2024
-
-Current Representative: Lori Lorusso, JFrog
+Current Representative: Roxanne Joncas, CDF
 
 
 ## Other Positions
