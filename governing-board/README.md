@@ -15,8 +15,8 @@ The current Governing Board consists of the representatives listed on this page:
 
 ### Governing Board Chair
 
-Stephen Chin of JFrog is the current elected governing board chair
-   * Term: 28 February 2022- 28 February 2024
+Dadisi Sanyika of Apple is the current elected governing board chair
+   * Term: 28 February 2024- 28 February 2026
 
 ## Communication Channels
 
@@ -26,8 +26,6 @@ Summary meeting minutes are made available here: https://github.com/cdfoundation
 
 The full and summary meeting minutes are also available in the mailing list: https://lists.cd.foundation/g/cdf-gb
 
-The private board calendar is here: [GB Calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
 The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 ## Onboarding
@@ -35,7 +33,7 @@ The community also uses [Slack for additional collaboration opportunities](https
 New Governing Board members checklist
 
 - [ ] Add to board meeting calendar invite
-- [ ] Add to [CDF Board calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [ ] Add to CDF Board Meetings
 - [ ] Add to [CDF Board Google Drive](https://drive.google.com/drive/folders/14Y-BTfa6STpc6ncQt61IdLyPYEc--sa2?usp=sharing)
 - [ ] Add to CDF [cdf-gb](https://lists.cd.foundation/g/cdf-gb) mailing list
 - [ ] Add to [Governing Board page](https://cd.foundation/about/governing-board/)
@@ -44,7 +42,4 @@ New Governing Board members checklist
 
 ## Meetings
 
-Governing board meetings are monthly.
-
- * [CDF Board Calendar](https://calendar.google.com/calendar/u/0?cid=bGludXhmb3VuZGF0aW9uLm9yZ19kcmJlZWJhNzU0dGtnY2Q0ZXA1Y25nMTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
+Governing board meetings are monthly. 
