@@ -1,8 +1,6 @@
 # 🏆 CDF Community Awards
 The Continuous Delivery Foundation recognizes community members, developers, and advocates that work hard to make this community great and push for Continuous Delivery advancements.
 
-📣 Nominations for 2025 will open soon.
-
 We traditionally have the following awards, awarded at our annual cdCon event:
 * **Continuous Enthusiast**: The special award for the community contributors. When you think of the CDF community, this person should be on the shortlist, because they're everywhere!
 * **Top CDF Ambassador**: A community champion for the continuous delivery space. This individual helps spread awareness of the CDF and its projects. The CDF Ambassador leverages multiple platforms, both online as well as speaking engagements, driving interest and excitement around the ecosystem. Must be part of the active Ambassador Cohort.
@@ -32,6 +30,41 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 
 
 ## Previously Awarded
+
+### 2025 Winners
+#### Top CDF Ambassador
+* [Lisa N. Cao](https://github.com/lisancao)
+
+#### Top CDF Contributor
+* [Garima Bajpai](https://github.com/bajpaigarima)
+
+#### Top Doc(umenter)
+* [Tracy Ragan](https://github.com/TracyRagan)
+
+#### Continuous Enthusiast
+* [Tracy Ragan](https://github.com/TracyRagan)
+
+#### Top CDF End User
+* [Apple](https://www.apple.com/)
+
+#### Most Valuable Project Contributors
+* CDEvents: [Ben Powell](https://github.com/xibz)
+* Jenkins: [Jan Faracik](https://github.com/janfaracik)
+* Ortelius: [Tony Carrato](https://www.linkedin.com/in/tonycarrato/)
+* Screwdriver: [Ming Hay Luk](https://github.com/minghay)
+* Spinnaker: [Kiran Godishala](https://github.com/kirangodishala)
+
+##### Not awarded
+* Jenkins X
+* Tekton
+
+#### Jenkins Security MVP
+* [Daniel Beck](https://github.com/daniel-beck)
+
+#### Jenkins Most Valuable Advocate
+* [Stefan Spieker](https://github.com/StefanSpieker)
+
+The award officers were: Giorgi Keratishvili and Kris Stern.
 
 ### 2024 Winners
 #### Top CDF Ambassador
@@ -72,7 +105,7 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 #### Tekton Most Valuable Advocate
 * [Al Huizenga](https://github.com/alhuizenga)
 
-This year, the award officers are: Vutukuri Sreenivas and Bervianto Leo Pratama.
+The award officers were: Vutukuri Sreenivas and Bervianto Leo Pratama.
 
 ### 2023 Winners
 
@@ -114,7 +147,7 @@ This year, the award officers are: Vutukuri Sreenivas and Bervianto Leo Pratama.
 #### Tekton Most Valuable Advocate
 * [Andrea Frittoli](https://github.com/afrittoli)
 
-This year, the award officers were: [Tracy Ragan](https://github.com/TracyRagan) and [Ullrich Hafner](https://github.com/uhafner)
+The award officers were: [Tracy Ragan](https://github.com/TracyRagan) and [Ullrich Hafner](https://github.com/uhafner)
 
 ---
 
