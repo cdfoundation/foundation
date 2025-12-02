@@ -18,20 +18,19 @@ Graduated projects (currently Jenkins and Tekton) have three awards.
 
 ## Nominations 
 
-The nominations for CDF Awards are done directly under corresponding issues created in cdfoundation/foundation repository. 
+The nominations for CDF Awards are done directly under corresponding issues created in cdfoundation/foundation repository. Anyone can nominate someone for one of the awards.
 
 ## Voting
 The voting will be done via a Google Form. Members of the Outreach Committee, Technical Oversight Committee (including Project Representatives), and Governing Board vote to determine the winners of the 5 CDF awards: Continuous Enthusiast, Top CDF Ambassador, Top CDF Contributor, Top Doc(umenter) and Top CDF End User. The CDF Ambassadors are eligible to vote for the Top CDF Ambasasdor Award. Only 1 vote per company will be counted when tallying up the final results to determine each award winner.
 
 ## Project Awards
-The projects are responsible for running their own award process.
+The projects are responsible for running their own award process including nomination and voting.
 
 ## Eligibility
 All community members are eligible to be nominated for all of the award categories based on their contributions except for the category in which they won the award during the last year. The reason for this is that there are many people involved in the success of the foundation and its projects. We want to make sure that more than one person is recognized for their efforts. 
 
 ## Winners
 The winners are announced during the yearly cdCon event. The breakdown of votes is not disclosed, however members of the community will be invited to take part in the awards process as a CDF Award Officer (two volunteers per year) to observe nomination and voting process to ensure the transparency and sanctity of the award process.
-
 
 ## Previously Awarded
 
