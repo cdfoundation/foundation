@@ -16,10 +16,14 @@ Graduated projects (currently Jenkins and Tekton) have three awards.
 * Most Valuable Contributor
 * Security MVP
 
-## Nominations and Voting
-The nominations for CDF Awards are done directly under corresponding issues created in cdfoundation/foundation repository. 
-The voting will be done via a Google form. Members of the Outreach Committee, Technical Oversight Committee, and Ambassador Program vote to determine the winners of the 5 CDF awards listed above. Only 1 vote per company will be counted when tallying up the final vote to determine each of the award winners.
+## Nominations 
 
+The nominations for CDF Awards are done directly under corresponding issues created in cdfoundation/foundation repository. 
+
+## Voting
+The voting will be done via a Google Form. Members of the Outreach Committee, Technical Oversight Committee (including Project Representatives), and Governing Board vote to determine the winners of the 5 CDF awards: Continuous Enthusiast, Top CDF Ambassador, Top CDF Contributor, Top Doc(umenter) and Top CDF End User. The CDF Ambassadors are eligible to vote for the Top CDF Ambasasdor Award. Only 1 vote per company will be counted when tallying up the final results to determine each award winner.
+
+## Project Awards
 The projects are responsible for running their own award process.
 
 ## Eligibility
