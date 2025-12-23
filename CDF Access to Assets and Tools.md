@@ -36,12 +36,12 @@ Prior to requesting access please register for a [Last Pass account](#heading=h.
 You may have to enter a code (MFA) you've been added to the mailing alias associated with that MFA so you should receive the code in your inbox.
 
 
-# LastPass
+# 1Password
 
 
-### Request Link to CDF LastPass Vault
+### Request Access to CDF 1Password Vault
 
-To request a link to CDF’s LastPass Vault please file a ticket at  [https://members.cd.foundation/ ](https://members.cd.foundation/). Please include the following:
+To request a link to CDF’s 1Password Vault please email operations@cd.foundation. Please include the following:
 
 1. Your Project name
 2. The email address you wish to associate with your account
