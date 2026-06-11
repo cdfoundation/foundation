@@ -4,7 +4,7 @@
 
 ### Chair
 
-Term: 2 years (Re-elected) 1/2026-1/2028
+Term: 2 years (Re-elected) 1/2026-12/2028
 
 Current Representative: Dadisi Sanyika, Apple
 
