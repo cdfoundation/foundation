@@ -17,9 +17,6 @@ Zoom accounts are paid for and administered by CDF. Each project should have its
 
 ### Request Access to an Existing Project Zoom Account
 
- 
-
-Prior to requesting access please register for a [Last Pass account](#heading=h.uv09w0ha1gb9). Once you have, follow the steps below.
 
 **Steps:**
 
