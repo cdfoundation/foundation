@@ -18,14 +18,14 @@ Current Representative: Steve Fenton, Octopus Deploy
 
 ### Committer/Contributor Representative 1
 
-Term: 2 years 2/1/2025-2/1/2026
+Term: 2 years 2/1/2025-2/1/2027
 
 Current Representative: Sasha Wharton, Nagarro
 
 
 ### Committer/Contributor Representative 2
 
-Term: 2 years 2/20/2026-2/19/2027
+Term: 2 years 2/20/2026-2/19/2028
 
 Current Representative: Mark Waite
 
@@ -41,50 +41,44 @@ Current Representative: Mark Waite
 
 ### Chair
 
-Term: 1 year 2/1/2025-2/1/2026
+Term: 2 years 8/1/2025-8/1/2027
 
 Current Representative: Andrea Fritoli, IBM
 
 
 ### Project Representative 1
 
-Term: (2 years)  7/17/2024-7/17/2026
+Term: (2 years)  10/1/2024-10/1/2026
 
 Current Representative: Jason McIntosh |  Spinnaker | Engineering Architect, Harness
 
 
 ### Project Representative 2
 
-Term: (2 years) 7/1/2023-6/30/2025
+Term: (2 years) 8/1/2025-6/30/2027
 
-Current Representative: Andrea Frittoli, IBM (Tekton)
+Current Representative: Basil Crow | Jenkins
 
 
 ### Project Representative 3
 
-Term: (2 years) 7/1/2023-6/30/2025
+Term: (2 years) 10/1/2024-10/1/2026
 
-Current Representative: Mark Waite, CloudBees (Jenkins)
+Current Representative: Tracy Ragan | Ortelius| DeployHub 
 
-
-### Project Representative 4
-
-Term: (2 years) 7/17/2024-7/17/2026
-
-Current Representative:Tracy Ragan | Ortelius |  CEO, DeployHub 
 
 ### End User Representative 1
 
-Term: (1 year)  7/17/2024-7/17/2026
+Term: (1 year)  8/1/2025-8/1/2026
 
-Current Representative: Steve Taylor, DeployHub (Ortelius)
+Current Representative: Dan Johnson | Capital One
 
 
 ### End User Representative 2
 
-Term: (1 year)  7/17/2024-7/17/2026
+Term: (1 year)  8/11/2025-8/1/2026
 
-Current Representative: Damien Curry, NGINX
+Current Representative: Aravind Kannan | eBay
 
 
 ### GB Representative 1
@@ -92,7 +86,6 @@ Current Representative: Damien Curry, NGINX
 Term: (2 years) 7/17/2024-7/17/2026
 
 Current Representative: Benjamin Powell, Apple
-
 
 
 ### GB Representative 2
@@ -127,10 +120,10 @@ Term:  (1 year)
 
 Current Representatives:
 
-* Andrea Frittoli: CDF TOC End User Representative Election, April 2023
-* Brad McCoy: CDF GB General Member Representative Election, May 2023
-* Lori Lorusso: CDF TOC Project Representative Election, June 2023
-* Al Huizenga: CDF GB Committer Representative Election, July 2023
+* Andrea Frittoli: CDF TOC End User Representative Election
+* Brad McCoy: CDF GB General Member Representative Election
+* Lori Lorusso: CDF TOC Project Representative Election
+* Al Huizenga: CDF GB Committer Representative Election
 
 
 ### Awards Officer
