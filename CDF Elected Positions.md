@@ -43,7 +43,7 @@ Current Representative: Mark Waite
 
 Term: 2 years 8/1/2025-8/1/2027
 
-Current Representative: Andrea Fritoli, IBM
+Current Representative: Andrea Fritoli | IBM
 
 
 ### Project Representative 1
@@ -69,37 +69,37 @@ Current Representative: Tracy Ragan | Ortelius| DeployHub
 
 ### End User Representative 1
 
-Term: (1 year)  8/1/2025-8/1/2026
+Term: (1 year)  8/1/2026-8/1/2027
 
 Current Representative: Dan Johnson | Capital One
 
 
 ### End User Representative 2
 
-Term: (1 year)  8/11/2025-8/1/2026
+Term: (1 year)  8/1/2026-8/1/2027
 
-Current Representative: Aravind Kannan | eBay
+Current Representative: Nikunj Doshi
 
 
 ### GB Representative 1
 
-Term: (2 years) 7/17/2024-7/17/2026
+Term: (2 years) 7/1/2026-6/30/2028
 
-Current Representative: Benjamin Powell, Apple
+Current Representative: Vutukuri Sreenivas | Hack2Skill
 
 
 ### GB Representative 2
 
-Term: (2 years)  7/17/2024-7/17/2026
+Term: (2 years) 7/1/2026-6/30/2028
 
-Current Representative: Carlos Tadeu Panato Jr, Chainguard
+Current Representative: Carlos Tadeu Panato Jr | Chainguard
 
 
 ### GB Representative 3
 
 Term: (2 years)  7/17/2024-7/17/2026
 
-Current Representative: Garima Bajpai, Founder DevOps Community of Practice
+Current Representative: Stefan Spieker | Shaeffler
 
 
 ## Outreach Committee
